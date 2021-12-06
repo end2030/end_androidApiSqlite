@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/search_menu"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="@string/search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="collapseActionView|always" />
+    <item
+        android:id="@+id/setting_page"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/setting"
+        app:showAsAction="always" />
+    <group android:menuCategory="container">
+        <item android:id="@+id/search_page"
+            android:title="@string/page_search"
+            android:icon = "@drawable/ic_baseline_search_24"/>
+        <item android:id="@+id/favorit_page"
+            android:icon="@drawable/ic_favorite"
+            android:title="@string/page_favorit" />
+    </group>
+
+</menu>

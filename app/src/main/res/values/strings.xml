@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">submitPertama</string>
+    <string name="user_name">Username</string>>
+    <string name="search">Masukkan Kata Kunci</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="nama">Nama</string>
+    <string name="follower">follower</string>
+    <string name="following">following</string>
+    <string name="namehead">Name :</string>
+    <string name="usernamehead">Username :</string>
+    <string name="username">username</string>
+    <string name="locationhead">Location :</string>
+    <string name="followerhead">Follower :</string>
+    <string name="followinghead">Following :</string>
+    <string name="companyhead">Company :</string>
+    <string name="bloghead">Blog :</string>
+    <string name="blog">blog</string>
+    <string name="company">company</string>
+    <string name="share">Share</string>
+    <string name="avatar">Avatar</string>
+    <string name="setting">Setting</string>
+    <string name="favorit">Favorit</string>
+    <string name="page_search">Halaman Cari</string>
+    <string name="page_favorit">Halaman Favorit</string>
+    <string name="tema_gelap">Dark Theme</string>
+    <string name="delete_favorit">Hapus dari Favorit</string>
+    <string name="date">Tanggal</string>
+
+</resources>
